@@ -16,7 +16,7 @@ const Navigation = () => {
             Shop
           </Link>
           <Link className="nav-link" to="/sign-in">
-            Sign-in
+            Sign In
           </Link>
         </div>
       </div>
